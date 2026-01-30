@@ -2,7 +2,14 @@
 
 ## Overview
 
-This repository contains a **single-page resume website** built using purely **HTML**. As per the assignment guidelines, **NO CSS** was used for styling. The layout and visual structure rely entirely on HTML tags and attributes (e.g., tables, semantic tags, lists).
+This repository contains a **single-page resume website** built using purely **HTML**. As per the assignment guidelines, **NO CSS** was used for styling. The layout and visual structure rely entirely on HTML tags and attributes
+(e.g., tables, semantic tags, lists).
+
+## Live URL
+
+```
+https://resume.piyus.me/
+```
 
 ## Assignment Details
 
