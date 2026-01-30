@@ -31,7 +31,7 @@ This repository contains a **single-page resume website** built using purely **H
 
 1. Clone this repository (if hosted on GitHub):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PiyushRepos/html-resume.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,8 @@ This repository contains a **single-page resume website** built using purely **H
 
 ## Screenshots
 
-Please open the `index.html` file to view the final output. The design mimics a standard resume layout using default browser rendering.
+![Desktop View](./screenshot1.png)
+![Mobile View](./screenshot2.png)
 
 ---
 
